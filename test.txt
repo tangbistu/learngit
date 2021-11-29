@@ -4,3 +4,4 @@ Git tracks changes of files
 11122
 sdfsdafsafd
 Creating a new branch is quick
+Switched to a new branch 'feature'
