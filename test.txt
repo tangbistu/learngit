@@ -3,10 +3,3 @@ Git is free software distributed under the GPL
 Git tracks changes of files
 11122
 sdfsdafsafd
-Creating a new branch is quick
-<<<<<<< HEAD
-Creating a new branch is quick & simple.
-=======
-Switched to a new branch 'feature'
->>>>>>> feature
-Switched to a new branch 'feature'
